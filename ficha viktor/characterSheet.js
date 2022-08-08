@@ -39,7 +39,7 @@ const data = {
     },
     {
       type: 'Presença',
-      amount: 0,
+      amount: 2,
     },
     {
       type: 'Intelecto',
