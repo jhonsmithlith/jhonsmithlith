@@ -1,8 +1,8 @@
 const data = {
-  name: 'Viktor tesla',
-  player: 'Gustavo',
+  name: '',
+  player: 'Malricio',
   occupation: 'Cientista, engenheiro.',
-  age: 24,
+  age: 20,
   sex: 'male',
   birthplace: 'São paulo',
   residence: 'São paulo',
