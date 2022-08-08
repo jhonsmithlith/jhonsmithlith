@@ -1,24 +1,24 @@
 const data = {
   name: '',
   player: 'Malricio',
-  occupation: 'Cientista, engenheiro.',
+  occupation: 'Atleta.',
   age: 20,
   sex: 'male',
   birthplace: 'São paulo',
   residence: 'São paulo',
 
   life: {
-    current: 25,
-    max: 25,
+    current: 35,
+    max: 35,
   },
   sanity: {
-    current: 24,
-    max: 24,
+    current: 21,
+    max: 21,
   },
 
   lifeo: {
-    current: 6,
-    max: 6,
+    current: 8,
+    max: 8,
   },
 
   weapons: [
@@ -27,11 +27,11 @@ const data = {
   attributes: [
     {
       type: 'Força',
-      amount: 0,
+      amount: 1,
     },
     {
       type: 'Agilidade',
-      amount: 2,
+      amount: 3,
     },
     {
       type: 'Vigor',
@@ -43,7 +43,7 @@ const data = {
     },
     {
       type: 'Intelecto',
-      amount: 3,
+      amount: 0,
     },
     
   ],
