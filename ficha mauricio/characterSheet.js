@@ -31,7 +31,7 @@ const data = {
     },
     {
       type: 'Agilidade',
-      amount: 3,
+      amount: 1,
     },
     {
       type: 'Vigor',
@@ -39,11 +39,11 @@ const data = {
     },
     {
       type: 'Presença',
-      amount: 0,
+      amount: 1,
     },
     {
       type: 'Intelecto',
-      amount: 0,
+      amount: 1,
     },
     
   ],
